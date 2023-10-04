@@ -199,6 +199,16 @@ This will open the term's GitHub page. Make your changes and create a PR.
 Please refer to the [Best practices](#best-practices) section above 
 and read our [Style Guide](/style-guide/) to make sure you follow our guidelines. 
 
+## Our Process
+
+Please note, that for all the contributions we have established a process to ensure that the quality of terms remains high. The process consists of the following steps:
+
+1. Tech review: the contribution is checked for technical accuracity and correctness. 
+2. Another tech review: same as step 1 but this time another person will make the review. 
+3. If technically everything is fine, we do a last step where we make edits to ensure that the content is reader-friendly. 
+
+This whole process can take some time and includes some back and forth with the initial contributor. You can track the progress of your contribution at any time, [here](https://github.com/orgs/cncf/projects/26/views/1). 
+
 ## Help localize the glossary {#help-localize-the-glossary}
 
 To help localize the glossary into a target language, please join the [#glossary-localizations](https://cloud-native.slack.com/archives/C02N2RGFXDF) channel on the CNCF Slack workspace and send us a message.
